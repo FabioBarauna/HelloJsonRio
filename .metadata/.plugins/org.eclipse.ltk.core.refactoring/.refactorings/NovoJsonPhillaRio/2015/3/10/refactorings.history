@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.novojsonphilla&apos; to &apos;com.novojsonphillario&apos;&#x0D;&#x0A;- Original project: &apos;NovoJsonPhillaRio&apos;&#x0D;&#x0A;- Original element: &apos;NovoJsonPhillaRio/src/com.novojsonphilla&apos;&#x0D;&#x0A;- Renamed element: &apos;NovoJsonPhillaRio/src/com.novojsonphillario&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.novojsonphilla&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.novojsonphilla" name="com.novojsonphillario" qualified="false" references="true" stamp="1425259339216" textual="false" version="1.0"/>
+</session>
